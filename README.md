@@ -1,3 +1,3 @@
 # Javascript
- :boat: :airplane::coffee: :cool: :train: :pen:
- 
+:cake: :boat: :airplane::coffee: :cool: :train: :pen::smiley:
+
